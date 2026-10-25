@@ -1,0 +1,8 @@
+# Klartext-Lösungen nicht ins öffentliche Repo
+puzzle.json
+.DS_Store
+
+# Original-Fotos (unkomprimiert, mit Metadaten) nicht hochladen
+assets/IMG_*
+assets/ba8ba723-*
+_vorschau_tmp.jpg
